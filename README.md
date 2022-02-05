@@ -4,7 +4,7 @@
  
  David delivers STEM training courses (IoT, Robotics, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects) for [Nexgen Codecamp](https://nexgencodecamp.com.au/) and is an Honorary Associate at the University of Sydney for his work on the [Genesis Startup Program](https://www.sydney.edu.au/business/study/student-experience/sydney-genesis.html). 
 
-David has completed an MBA (Marketing), BE (Electrical), BSc (Computing Science & Physics), and a BAppSc (Wine Science). David also holds a Remote Pilot Licence (RePL), is endorsed for commercial multi-rotor operations, and has an Aeronautical Radio Operator Certificate.
+David has completed an MBA (Marketing), BE (Electrical), BSc (Computing Science & Physics), BAppSc (Wine Science), and holds a Remote Pilot Licence (RePL). He is endorsed for commercial multi-rotor operations and has an Aeronautical Radio Operator Certificate.
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
