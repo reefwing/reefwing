@@ -2,7 +2,7 @@
 
  David Such is an embedded systems engineer. He is also a Director at Kintarla Pty Ltd, trading as [Reefwing Software](https://www.reefwing.com.au) which is an IoT and mobile app development company. 
  
- David delivers STEM training courses (IoT, Robotics, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects) and is an Honorary Associate at the University of Sydney for his work on the [Genesis Startup Program](https://www.sydney.edu.au/business/study/student-experience/sydney-genesis.html). 
+ David delivers STEM training courses (IoT, Robotics, Drones, Raspberry Pi, Arduino, Python, Lua, Objective C, Swift and After Effects) and is an Honorary Associate at the University of Sydney for his work on the [Genesis Startup Program](https://www.sydney.edu.au/business/study/student-experience/sydney-genesis.html) and the Faculty of Business Entrepreneurship: Lean Startup course. 
 
 David has completed an MBA (Marketing), BE (Electrical), BSc (Computing Science & Physics), BAppSc (Wine Science), and holds a Remote Pilot Licence (RePL). He is endorsed for commercial multi-rotor operations and has an Aeronautical Radio Operator Certificate.
 
