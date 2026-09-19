@@ -16,7 +16,7 @@ This account holds my personal projects and contributions, including Magpie dron
 - Sensor fusion, robotics and flight control.
 - PCB design and the firmware.
 - Practical engineering education and open-source development.
-- 
+  
 I also teach STEM subjects, including electronics, programming, robotics and drones. My studies span electrical engineering, computing science, physics, business and wine science—because there is always something else worth learning.
 
 ## Connect
